@@ -27,3 +27,9 @@ vignettes/*.pdf
 # R Environment Variables
 .Renviron
 .DS_Store
+communication.docx
+*.fff
+*.log
+*.pdf
+*.ttt
+communication_files/*
